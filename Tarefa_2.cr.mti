@@ -1,0 +1,129 @@
+/home/igor/Documents/VHDL_Projects/Tarefa_2/VHDL_Files/FFD.vhd {1 {vcom -work work -2008 -explicit -check_synthesis -source /home/igor/Documents/VHDL_Projects/Tarefa_2/VHDL_Files/FFD.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FFD
+-- Compiling architecture Arq of FFD
+
+} {} {}} /home/igor/Documents/VHDL_Projects/Tarefa_2/VHDL_Files/ULA.vhd {1 {vcom -work work -2008 -explicit -check_synthesis -source /home/igor/Documents/VHDL_Projects/Tarefa_2/VHDL_Files/ULA.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package utility_package
+-- Compiling entity ULA
+-- Compiling architecture Arq of ULA
+
+} {} {}} /home/igor/Documents/VHDL_Projects/Tarefa_2/VHDL_Files/temp_tb.vhd {1 {vcom -work work -2008 -explicit -check_synthesis -source /home/igor/Documents/VHDL_Projects/Tarefa_2/VHDL_Files/temp_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Loading package utility_package
+-- Loading package function_package
+-- Compiling entity temp_tb
+-- Compiling architecture arq of temp_tb
+
+} {} {}} /home/igor/Documents/VHDL_Projects/Tarefa_2/VHDL_Files/somadorN.vhd {1 {vcom -work work -2008 -explicit -check_synthesis -source /home/igor/Documents/VHDL_Projects/Tarefa_2/VHDL_Files/somadorN.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package utility_package
+-- Compiling entity somadorN
+-- Compiling architecture Arq of somadorN
+
+} {} {}} /home/igor/Documents/VHDL_Projects/Tarefa_2/VHDL_Files/Bank_UlaInput.vhd {1 {vcom -work work -2008 -explicit -check_synthesis -source /home/igor/Documents/VHDL_Projects/Tarefa_2/VHDL_Files/Bank_UlaInput.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package utility_package
+-- Compiling entity Bank_UlaInput
+-- Compiling architecture Arq of Bank_UlaInput
+
+} {} {}} /home/igor/Documents/VHDL_Projects/Tarefa_2/VHDL_Files/Mux21.vhd {1 {vcom -work work -2008 -explicit -check_synthesis -source /home/igor/Documents/VHDL_Projects/Tarefa_2/VHDL_Files/Mux21.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Mux21
+-- Compiling architecture Arq of Mux21
+
+} {} {}} /home/igor/Documents/VHDL_Projects/Tarefa_2/VHDL_Files/Datapath.vhd {1 {vcom -work work -2008 -explicit -check_synthesis -source /home/igor/Documents/VHDL_Projects/Tarefa_2/VHDL_Files/Datapath.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package utility_package
+-- Compiling entity Datapath
+-- Compiling architecture Arq of Datapath
+
+} {} {}} /home/igor/Documents/VHDL_Projects/Tarefa_2/VHDL_Files/function_package.vhd {1 {vcom -work work -2008 -explicit -check_synthesis -source /home/igor/Documents/VHDL_Projects/Tarefa_2/VHDL_Files/function_package.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package function_package
+-- Compiling package body function_package
+-- Loading package function_package
+
+} {} {}} /home/igor/Documents/VHDL_Projects/Tarefa_2/VHDL_Files/Bank_Reg.vhd {1 {vcom -work work -2008 -explicit -check_synthesis -source /home/igor/Documents/VHDL_Projects/Tarefa_2/VHDL_Files/Bank_Reg.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package utility_package
+-- Compiling entity Bank_Reg
+-- Compiling architecture Arq of Bank_Reg
+
+} {} {}} /home/igor/Documents/VHDL_Projects/Tarefa_2/TB_Files/Datapath_TB.vhd {1 {vcom -work work -2008 -explicit -check_synthesis -source /home/igor/Documents/VHDL_Projects/Tarefa_2/TB_Files/Datapath_TB.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Loading package utility_package
+-- Loading package function_package
+-- Compiling entity Datapath_TB
+-- Compiling architecture arq of Datapath_TB
+
+} {} {}} /home/igor/Documents/VHDL_Projects/Tarefa_2/VHDL_Files/Dec_WriteReg.vhd {1 {vcom -work work -2008 -explicit -check_synthesis -source /home/igor/Documents/VHDL_Projects/Tarefa_2/VHDL_Files/Dec_WriteReg.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Dec_WriteReg
+-- Compiling architecture Arq of Dec_WriteReg
+
+} {} {}} /home/igor/Documents/VHDL_Projects/Tarefa_2/VHDL_Files/soma32.vhd {1 {vcom -work work -2008 -explicit -check_synthesis -source /home/igor/Documents/VHDL_Projects/Tarefa_2/VHDL_Files/soma32.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package utility_package
+-- Compiling entity soma32
+-- Compiling architecture Arq of soma32
+
+} {} {}} /home/igor/Documents/VHDL_Projects/Tarefa_2/VHDL_Files/SC.vhd {1 {vcom -work work -2008 -explicit -check_synthesis -source /home/igor/Documents/VHDL_Projects/Tarefa_2/VHDL_Files/SC.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity SC
+-- Compiling architecture Arq of SC
+
+} {} {}} /home/igor/Documents/VHDL_Projects/Tarefa_2/VHDL_Files/utility_package.vhd {1 {vcom -work work -2008 -explicit -check_synthesis -source /home/igor/Documents/VHDL_Projects/Tarefa_2/VHDL_Files/utility_package.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package utility_package
+
+} {} {}}

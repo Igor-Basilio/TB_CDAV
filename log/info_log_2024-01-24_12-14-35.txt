@@ -1,0 +1,3 @@
+2024-01-24 12:14:35,854 INFO: 
+
+The number of errors in the UUT : 0 
