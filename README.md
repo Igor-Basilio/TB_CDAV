@@ -17,7 +17,5 @@ Informações :
 
      run_li.sh : Bash script para rodar em linux
 
-     run_wi.ps1 : Script PowerShell para rodar em windows
-
      run_simulation.do : Script ModelSim para rodar a simulação
 
